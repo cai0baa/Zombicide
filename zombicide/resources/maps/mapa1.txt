@@ -1,0 +1,10 @@
+V V V V V V B V V V
+V P P P V Z P V P V
+V P V V V V P V P V
+B V V P Z V V V V V
+V P V P V P V P R V
+V P V V V P V P V V
+V P P P V V V P Z V
+V V V B V Z P V P V
+C V P V V V V C V Z
+V B V V R V V V V G
